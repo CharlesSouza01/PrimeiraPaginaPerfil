@@ -3,7 +3,9 @@
 }
 .plano-de-fundo{
 /*  background-color: #27ae60;*/
-    background-image: url("plano4.jpg");
+    background-image: url("../img/plano4.jpg");
+    background-size: cover;
+    font-size: 1.5rem;
 }
 .texto-branco{
   color: white;
