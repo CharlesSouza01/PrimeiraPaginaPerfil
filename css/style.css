@@ -8,5 +8,14 @@
     font-size: 1.5rem;
 }
 .texto-branco{
-  color: white;
+  color: black;
+}
+
+header .intro {
+    padding-top: 400px;
+    padding-bottom: 400px;
+}
+
+.img-circle{
+  border-radius: 50%;
 }
